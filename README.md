@@ -13,4 +13,5 @@ Kmeans method is used to solve this problem.
 Number of cluster used just random.
 Result:Clusturing methods rels to making group of differnt kind of cluster in a same big group.
 Conclusion: The number of group can be created more than 2 , 4 or here author has created cluster for k=8 and k=10. It is show that there no fixed amount of cluster can be created which is always right.
+
 As you can see Kmeans cluster customer segmentation visualization in  Tablueau for k=8 and k=10. Cluster are showing different kinds of group which is not fixed.
